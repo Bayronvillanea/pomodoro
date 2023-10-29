@@ -1,2 +1,2 @@
-# pomodoro
+# pomodoro React Native
 React Native
